@@ -25,7 +25,7 @@ Text-to-image diffusion models (e.g., Stable Diffusion, DALL-E) often inherit st
 
 | File | Description |
 |---|---|
-| `i222415_i222534_GenAi_Project.pdf` | Full paper (conceptual framework, literature review, comparative analysis) |
+| `peft-fairness-t2i-diffusion-paper.pdf` | Full paper (conceptual framework, literature review, comparative analysis) |
 
 ## Keywords
 
